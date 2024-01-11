@@ -1,4 +1,4 @@
- 1. UXUI문서
+# 1. UXUI문서
 - UXUI문서
 # 2. GDD
 - Pitch
