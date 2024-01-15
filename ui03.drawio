@@ -1,1 +1,329 @@
-<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/></root></mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-01-15T08:38:05.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IpY4bnM-vx3zFCupPJEJ" version="22.1.18" type="device">
+  <diagram name="페이지-1" id="BT4UFMv-qYcs-oTrnsxh">
+    <mxGraphModel dx="2963" dy="1569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-1" target="DBvxjE3NtZLwtRwNPTwj-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Game Icon&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-7" target="DBvxjE3NtZLwtRwNPTwj-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Image Loding&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-9" target="DBvxjE3NtZLwtRwNPTwj-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Game title&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="360" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-11" target="DBvxjE3NtZLwtRwNPTwj-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-11" value="Data select" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-15" target="DBvxjE3NtZLwtRwNPTwj-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-15" target="DBvxjE3NtZLwtRwNPTwj-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-15" target="DBvxjE3NtZLwtRwNPTwj-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-15" target="DBvxjE3NtZLwtRwNPTwj-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-15" target="DBvxjE3NtZLwtRwNPTwj-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-15" target="DBvxjE3NtZLwtRwNPTwj-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-15" target="DBvxjE3NtZLwtRwNPTwj-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-15" target="DBvxjE3NtZLwtRwNPTwj-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;In game&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="680" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-17" target="DBvxjE3NtZLwtRwNPTwj-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1720" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1790" y="410" />
+              <mxPoint x="1720" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1720" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1790" y="410" />
+              <mxPoint x="1721" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-17" target="DBvxjE3NtZLwtRwNPTwj-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Setting&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1750" y="310" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-19" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Data save&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1670" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-21" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;게임 종료&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-25" value="키 세팅" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1750" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-27" target="DBvxjE3NtZLwtRwNPTwj-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="DBvxjE3NtZLwtRwNPTwj-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="391" as="sourcePoint" />
+            <mxPoint x="1410" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-27" target="DBvxjE3NtZLwtRwNPTwj-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-27" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;NPC&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="310" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-29" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;퀘스트&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-31" target="DBvxjE3NtZLwtRwNPTwj-82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-31" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;구매/판매&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="DBvxjE3NtZLwtRwNPTwj-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="400" as="sourcePoint" />
+            <mxPoint x="1010" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="DBvxjE3NtZLwtRwNPTwj-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="370" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="400" />
+              <mxPoint x="910" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WdJivksELOuiFAVY7vKV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="WdJivksELOuiFAVY7vKV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="370" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="400" />
+              <mxPoint x="1220" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-35" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;가방&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="310" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-37" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;장비&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-39" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;무기/방패&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="970" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-45" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;장비/무기 강화&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1500" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-47" target="DBvxjE3NtZLwtRwNPTwj-82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-47" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;아이템&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-49" target="DBvxjE3NtZLwtRwNPTwj-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-49" target="DBvxjE3NtZLwtRwNPTwj-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-49" target="DBvxjE3NtZLwtRwNPTwj-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-49" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;필드&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="310" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-51" target="DBvxjE3NtZLwtRwNPTwj-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-51" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;전투&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-53" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;아이템 획득&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="585" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-55" target="DBvxjE3NtZLwtRwNPTwj-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-55" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;동물&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="310" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-57" target="DBvxjE3NtZLwtRwNPTwj-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-57" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;먹이주기/수확&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="570" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-59" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;아이템 획득&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="590" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-61" target="DBvxjE3NtZLwtRwNPTwj-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-61" value="바다" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="310" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-63" target="DBvxjE3NtZLwtRwNPTwj-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-63" target="DBvxjE3NtZLwtRwNPTwj-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-63" value="낚시" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="450" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-65" target="DBvxjE3NtZLwtRwNPTwj-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-65" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;아이템 획득&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="590" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-67" target="DBvxjE3NtZLwtRwNPTwj-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="555" />
+              <mxPoint x="440" y="610" />
+              <mxPoint x="430" y="610" />
+              <mxPoint x="430" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-67" value="몬스터 전투" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="525" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-74" target="DBvxjE3NtZLwtRwNPTwj-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-74" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;나무&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="310" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-76" target="DBvxjE3NtZLwtRwNPTwj-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-76" value="베기" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-78" target="DBvxjE3NtZLwtRwNPTwj-82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-78" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;아이템 획득&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="590" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-82" target="DBvxjE3NtZLwtRwNPTwj-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-82" value="요리 하기" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="490" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-92" value="언어설정" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1910" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-93" target="DBvxjE3NtZLwtRwNPTwj-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-93" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;밭&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="310" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-95" target="DBvxjE3NtZLwtRwNPTwj-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-95" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;일구기/씨뿌리기&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="80" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-97" target="DBvxjE3NtZLwtRwNPTwj-82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-97" value="수확" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="590" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-100" value="레시피 해금" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="490" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-17" target="DBvxjE3NtZLwtRwNPTwj-92" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1790" y="410" />
+              <mxPoint x="1958" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DBvxjE3NtZLwtRwNPTwj-105" target="DBvxjE3NtZLwtRwNPTwj-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBvxjE3NtZLwtRwNPTwj-105" value="채집" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WdJivksELOuiFAVY7vKV-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;레시피 해금도&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="450" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
